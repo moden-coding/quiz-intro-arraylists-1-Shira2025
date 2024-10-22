@@ -12,7 +12,7 @@ public class App {
         ArrayList<String> list = new ArrayList<>();
         list.add("Java");
         list.add("Python");
-        list.add("JavaScript")
+        list.add("JavaScript");
         int count = 0;
         while (count < list.size()){
         System.out.println(list.get(count));
